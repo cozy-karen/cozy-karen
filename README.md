@@ -21,7 +21,7 @@ I am an engineering student bridging the gap between underlying hardware systems
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=cozy-karen&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cozy-karen&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cozy-karen&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
