@@ -19,4 +19,5 @@ When I am not writing code or studying systems, I am usually studying chess open
 
 ---
 Discord :- huh_wait.
+
 *Feel free to reach out—I'm always open to discussing new projects, tech architecture, or just a good game of chess.*
