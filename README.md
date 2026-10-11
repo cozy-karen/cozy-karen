@@ -19,6 +19,12 @@ I am an engineering student bridging the gap between underlying hardware systems
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
 </p>
 
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=cozy-karen&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cozy-karen&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
 ### ⚡ Beyond the screen
 When I am not writing code or studying systems, I am usually studying chess openings , writing speculative fiction and poetry, or lurking as a Controller in Valorant. :)
 
